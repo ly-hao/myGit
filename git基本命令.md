@@ -29,6 +29,6 @@
 
 ## 通过某个工具将commonjs模块化语法编译成浏览器能识别的js语法
  使用browserify插件解决html不认模块化代码
-  **npm i browserify -g
-  **browserify ./app.js -o ./built.js
-  --app.js 模块化文件  --built.js 打包文件
+  #npm i browserify -g
+  #browserify ./app.js -o ./built.js
+  #app.js 模块化文件  --built.js 打包文件
